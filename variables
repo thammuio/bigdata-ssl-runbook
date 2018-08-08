@@ -1,0 +1,9 @@
+#!/bin/bash
+#Update these same valuses in run-on-other.sh
+pfx_prefix=""
+clusternodes=$PWD/cluster-nodes
+adnodes=$PWD/ad-nodes
+strpass=Pass123
+basedir=$PWD
+javahome=/usr/jdk64/latest
+tlsdir=/bigdata/security/tls
